@@ -21,12 +21,18 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Run the post-install script to download the Spacy model
 RUN python post_install.py
 
+
 # Copy the rest of the application code
 COPY . .
 
+# Copy tesseract.exe from your project directory to the container
+COPY Tesseract-OCR/tesseract.exe /usr/bin/tesseract
+
+# Grant executable permissions to tesseract.exe
+RUN chmod +x /usr/bin/tesseract
 
 # Expose the port the app runs on
 EXPOSE 5000
 
 # Set the entrypoint for your application
-CMD ["python", "your_script.py"]
+CMD ["python", "app.py"]
