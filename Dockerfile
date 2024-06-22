@@ -24,7 +24,7 @@ RUN python post_install.py
 # Copy the rest of the application code
 COPY . .
 # Grant executable permissions to tesseract.exe
-RUN icacls Tesseract-OCR/tesseract.exe  /grant Everyone:(RX)
+RUN icacls /app/Tesseract-OCR/tesseract.exe  /grant Everyone
 
 
 # Expose the port the app runs on
