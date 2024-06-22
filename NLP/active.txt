@@ -1,0 +1,100 @@
+What is the active ingredient in [Drug Name]?
+Can you tell me the active ingredient of [Drug Name]?
+What is the main ingredient in [Drug Name]?
+What is the key ingredient in [Drug Name]?
+What is the primary ingredient in [Drug Name]?
+What is the main component of [Drug Name]?
+What is the active component in [Drug Name]?
+What is the primary component in [Drug Name]?
+What is the chief ingredient in [Drug Name]?
+What is the major ingredient in [Drug Name]?
+What is the medicinal ingredient in [Drug Name]?
+What is the therapeutic ingredient in [Drug Name]?
+What is the pharmacological ingredient in [Drug Name]?
+What is the bioactive ingredient in [Drug Name]?
+What is the functional ingredient in [Drug Name]?
+What is the principal ingredient in [Drug Name]?
+What is the drug substance in [Drug Name]?
+What is the main chemical in [Drug Name]?
+What is the main compound in [Drug Name]?
+What is the main substance in [Drug Name]?
+What is the effective ingredient in [Drug Name]?
+What is the working ingredient in [Drug Name]?
+What is the central ingredient in [Drug Name]?
+What is the core ingredient in [Drug Name]?
+What is the essential ingredient in [Drug Name]?
+What is the main agent in [Drug Name]?
+What is the primary agent in [Drug Name]?
+What is the chief component in [Drug Name]?
+What is the key component in [Drug Name]?
+What is the main element in [Drug Name]?
+What is the active chemical in [Drug Name]?
+What is the active compound in [Drug Name]?
+What is the active agent in [Drug Name]?
+What is the pharmacologically active ingredient in [Drug Name]?
+What is the active moiety in [Drug Name]?
+What is the therapeutic component in [Drug Name]?
+What is the medicinal component in [Drug Name]?
+What is the drug component in [Drug Name]?
+What is the main pharmacological agent in [Drug Name]?
+What is the main therapeutic agent in [Drug Name]?
+What is the primary therapeutic agent in [Drug Name]?
+What is the main medicinal agent in [Drug Name]?
+What is the core component in [Drug Name]?
+What is the central component in [Drug Name]?
+What is the key agent in [Drug Name]?
+What is the primary chemical in [Drug Name]?
+What is the primary compound in [Drug Name]?
+What is the key substance in [Drug Name]?
+What is the main active ingredient in [Drug Name]?
+What is the active pharmaceutical ingredient in [Drug Name]?
+What is the principal component in [Drug Name]?
+What is the essential component in [Drug Name]?
+What is the active principle in [Drug Name]?
+What is the primary element in [Drug Name]?
+What is the main pharmaceutical ingredient in [Drug Name]?
+What is the active entity in [Drug Name]?
+What is the main pharmacologically active component in [Drug Name]?
+What is the main biologically active ingredient in [Drug Name]?
+What is the active molecule in [Drug Name]?
+What is the principal chemical in [Drug Name]?
+What is the therapeutic chemical in [Drug Name]?
+What is the primary medicinal ingredient in [Drug Name]?
+What is the active pharmacological component in [Drug Name]?
+What is the effective component in [Drug Name]?
+What is the main curative ingredient in [Drug Name]?
+What is the main remedial ingredient in [Drug Name]?
+What is the main restorative ingredient in [Drug Name]?
+What is the main healing ingredient in [Drug Name]?
+What is the main medicinal compound in [Drug Name]?
+What is the main therapeutic compound in [Drug Name]?
+What is the key pharmaceutical ingredient in [Drug Name]?
+What is the central pharmacological ingredient in [Drug Name]?
+What is the effective ingredient in [Drug Name]?
+What is the main medicinal agent in [Drug Name]?
+What is the principal pharmacological ingredient in [Drug Name]?
+What is the therapeutic moiety in [Drug Name]?
+What is the essential chemical in [Drug Name]?
+What is the primary pharmacological agent in [Drug Name]?
+What is the effective compound in [Drug Name]?
+What is the curative ingredient in [Drug Name]?
+What is the remedial ingredient in [Drug Name]?
+What is the restorative ingredient in [Drug Name]?
+What is the healing ingredient in [Drug Name]?
+What is the primary medicinal compound in [Drug Name]?
+What is the therapeutic substance in [Drug Name]?
+What is the pharmaceutical substance in [Drug Name]?
+What is the pharmacological substance in [Drug Name]?
+What is the essential compound in [Drug Name]?
+What is the central agent in [Drug Name]?
+What is the core agent in [Drug Name]?
+What is the effective agent in [Drug Name]?
+What is the key chemical in [Drug Name]?
+What is the key compound in [Drug Name]?
+What is the main pharmacological moiety in [Drug Name]?
+What is the main active chemical in [Drug Name]?
+What is the principal ingredient of [Drug Name]?
+What is the primary active ingredient in [Drug Name]?
+What is the main ingredient of [Drug Name]?
+What is the active compound of [Drug Name]?
+What is the effective ingredient of [Drug Name]?

@@ -1,0 +1,10 @@
+{
+  "builds": [
+    { "src": "APIs/CV_NLP_API.py",
+      "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/(.*)",
+      "dest": "APIs/CV_NLP_API.py" }
+  ]
+}

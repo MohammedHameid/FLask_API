@@ -1,0 +1,100 @@
+What is the price of [Drug Name]?
+How much does [Drug Name] cost?
+Can you tell me the cost of [Drug Name]?
+What is the current price of [Drug Name]?
+How much will I pay for [Drug Name]?
+What is the retail price of [Drug Name]?
+How much does a bottle of [Drug Name] cost?
+What is the average cost of [Drug Name]?
+What is the cost per pill of [Drug Name]?
+How much does [Drug Name] cost at the pharmacy?
+What is the market price of [Drug Name]?
+Can you give me the price of [Drug Name]?
+What is the cost of a month's supply of [Drug Name]?
+How much is a dose of [Drug Name]?
+What is the price range for [Drug Name]?
+How much is [Drug Name] without insurance?
+What is the out-of-pocket cost for [Drug Name]?
+How much does [Drug Name] cost with insurance?
+What is the co-pay for [Drug Name]?
+What is the price of [Drug Name] at a local pharmacy?
+How much does [Drug Name] cost online?
+What is the cost of generic [Drug Name]?
+How much does the generic version of [Drug Name] cost?
+What is the price difference between [Drug Name] and its generic version?
+What is the price of [Drug Name] at the nearest pharmacy?
+How much does [Drug Name] cost at Walmart?
+What is the price of [Drug Name] at CVS?
+How much does [Drug Name] cost at Walgreens?
+What is the price of [Drug Name] at Rite Aid?
+How much does [Drug Name] cost at Costco?
+What is the price of [Drug Name] at Sam's Club?
+How much does [Drug Name] cost at Target?
+What is the price of [Drug Name] at Kroger?
+How much does [Drug Name] cost at Safeway?
+What is the price of [Drug Name] at Publix?
+How much does [Drug Name] cost at Meijer?
+What is the price of [Drug Name] at H-E-B?
+What is the price of [Drug Name] at a discount pharmacy?
+How much does [Drug Name] cost at a hospital pharmacy?
+What is the price of [Drug Name] at a university hospital pharmacy?
+How much does [Drug Name] cost at a private clinic?
+What is the price of [Drug Name] with a prescription?
+How much does [Drug Name] cost without a prescription?
+What is the price of [Drug Name] in bulk?
+How much does a 90-day supply of [Drug Name] cost?
+What is the price of [Drug Name] for a 30-day supply?
+How much does [Drug Name] cost for a 7-day supply?
+What is the price of [Drug Name] for a year's supply?
+How much does [Drug Name] cost per day?
+What is the price of [Drug Name] per week?
+How much does [Drug Name] cost per month?
+What is the price of [Drug Name] per year?
+How much does a single dose of [Drug Name] cost?
+What is the price of [Drug Name] in a blister pack?
+How much does [Drug Name] cost in a bottle?
+What is the price of [Drug Name] in a box?
+How much does [Drug Name] cost in a pack of 10?
+What is the price of [Drug Name] in a pack of 20?
+How much does [Drug Name] cost in a pack of 30?
+What is the price of [Drug Name] in a pack of 60?
+How much does [Drug Name] cost in a pack of 90?
+What is the price of [Drug Name] in liquid form?
+How much does [Drug Name] cost in tablet form?
+What is the price of [Drug Name] in capsule form?
+How much does [Drug Name] cost in injection form?
+What is the price of [Drug Name] in cream form?
+How much does [Drug Name] cost in ointment form?
+What is the price of [Drug Name] in gel form?
+How much does [Drug Name] cost in spray form?
+What is the price of [Drug Name] in inhaler form?
+How much does [Drug Name] cost in patch form?
+What is the price of [Drug Name] in syrup form?
+How much does [Drug Name] cost in powder form?
+What is the price of [Drug Name] in solution form?
+How much does [Drug Name] cost in suspension form?
+What is the price of [Drug Name] in suppository form?
+How much does [Drug Name] cost in film form?
+What is the price of [Drug Name] in lozenge form?
+How much does [Drug Name] cost in chewable form?
+What is the price of [Drug Name] in dissolvable form?
+How much does [Drug Name] cost in extended-release form?
+What is the price of [Drug Name] in immediate-release form?
+How much does [Drug Name] cost in a starter pack?
+What is the price of [Drug Name] in a maintenance pack?
+How much does [Drug Name] cost with a coupon?
+What is the price of [Drug Name] with a discount card?
+How much does [Drug Name] cost with a patient assistance program?
+What is the price of [Drug Name] through mail order?
+How much does [Drug Name] cost through an online pharmacy?
+What is the price of [Drug Name] with a manufacturer's discount?
+How much does [Drug Name] cost through a specialty pharmacy?
+What is the price of [Drug Name] at an international pharmacy?
+How much does [Drug Name] cost through a drug importation program?
+What is the price of [Drug Name] through a pharmacy benefits manager?
+How much does [Drug Name] cost with a prescription savings plan?
+What is the price of [Drug Name] through a mail-order service?
+How much does [Drug Name] cost through a wholesaler?
+What is the price of [Drug Name] for bulk purchase?
+How much does [Drug Name] cost for a single unit?
+What is the price of [Drug Name] for a family pack?
