@@ -14,7 +14,7 @@ def predict():
         else:
             file = request.files['image']
             image = Image.open(io.BytesIO(file.read()))
-            pytesseract.pytesseract.tesseract_cmd = r'Tesseract-OCR/tesseract.exe'
+            pytesseract.pytesseract.tesseract_cmd = r'C:\Users\Taha CompuTech\Desktop\APIs\Tesseract-OCR\tesseract.exe'
             txt = open(r'drugs.txt', 'r')
             drugs = [name.split()[0] for name in txt.readlines()]
 
