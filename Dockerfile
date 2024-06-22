@@ -2,6 +2,7 @@ FROM python:3.11-slim
 
 # Install necessary system libraries
 RUN apt-get update && apt-get install -y \
+    tesseract-ocr \
     libgl1-mesa-glx \
     libglib2.0-0 \
     && apt-get clean \
@@ -22,6 +23,8 @@ RUN python post_install.py
 
 # Copy the rest of the application code
 COPY . .
+# Grant executable permissions to tesseract.exe
+RUN chmod +x /app/Tesseract-OCR/tesseract.exe
 
 # Expose the port the app runs on
 EXPOSE 5000
